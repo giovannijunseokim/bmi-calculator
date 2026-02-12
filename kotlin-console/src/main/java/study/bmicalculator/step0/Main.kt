@@ -7,9 +7,9 @@ fun main() {
 
     // 계산
     val bmi = calculateBmi(height, weight)
+    val status = classifyBmi(bmi)
 
     // 표시
-    val status = classifyBmi(bmi)
     displayResult(bmi, status)
 }
 
