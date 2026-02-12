@@ -23,4 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "BMI Calculator"
-include(":app")
+include(":android-app")
