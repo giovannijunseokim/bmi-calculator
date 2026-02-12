@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BMI Calculator"
 include(":android-app")
+include(":kotlin-console")
