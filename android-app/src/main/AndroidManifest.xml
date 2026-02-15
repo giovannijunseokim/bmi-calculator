@@ -11,6 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BMICalculator">
         <activity
+            android:name=".step3.Step3Activity"
+            android:exported="true" />
+        <activity
             android:name=".step2.Step2Activity"
             android:exported="true" />
         <activity
